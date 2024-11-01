@@ -1,0 +1,307 @@
+#### H
+
+# H:
+
+# Left Vertical: March 10, 2024 through March 16, 2024
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-03-10" -m "H"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-03-11" -m "H"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-03-12" -m "H"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-03-13" -m "H"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-03-14" -m "H"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-03-15" -m "H"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-03-16" -m "H"
+
+# Middle: March 20, 2024 and March 27, 2024
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-03-20" -m "H"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-03-27" -m "H"
+
+# Right Vertical: March 31, 2024 through April 6, 2024
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-03-31" -m "H"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-04-01" -m "H"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-04-02" -m "H"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-04-03" -m "H"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-04-04" -m "H"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-04-05" -m "H"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-04-06" -m "H"
+
+#### E
+
+# E:
+
+# Left Vertical: April 14, 2024 through April 20, 2024
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-04-14" -m "E"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-04-15" -m "E"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-04-16" -m "E"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-04-17" -m "E"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-04-18" -m "E"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-04-19" -m "E"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-04-20" -m "E"
+
+# Top Horizontal: April 21, 2024, April 28, 2024, May 5, 2024
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-04-21" -m "E"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-04-28" -m "E"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-05-05" -m "E"
+
+# Middle: April 24, 2024
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-04-24" -m "E"
+
+# Bottom Horizontal: April 27, 2024, May 4, 2024, May 11, 2024
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-04-27" -m "E"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-05-04" -m "E"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-05-11" -m "E"
+
+#### L (First)
+
+# L (First):
+
+# Left Vertical: May 19, 2024 through May 25, 2024
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-05-19" -m "L"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-05-20" -m "L"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-05-21" -m "L"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-05-22" -m "L"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-05-23" -m "L"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-05-24" -m "L"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-05-25" -m "L"
+
+# Bottom Horizontal: June 1, 2024, June 8, 2024, June 15, 2024
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-06-01" -m "L"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-06-08" -m "L"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-06-15" -m "L"
+
+#### L (Second)
+
+# L (Second):
+
+# Left Vertical: June 23, 2024 through June 29, 2024
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-06-23" -m "L"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-06-24" -m "L"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-06-25" -m "L"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-06-26" -m "L"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-06-27" -m "L"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-06-28" -m "L"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-06-29" -m "L"
+
+# Bottom Horizontal: July 6, 2024, July 13, 2024, July 20, 2024
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-07-06" -m "L"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-07-13" -m "L"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-07-20" -m "L"
+
+#### O
+
+# O:
+
+# Left Vertical: July 28, 2024 through August 3, 2024
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-07-28" -m "O"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-07-29" -m "O"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-07-30" -m "O"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-07-31" -m "O"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-08-01" -m "O"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-08-02" -m "O"
+
+echo "
+
+hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-08-03" -m "O"
+
+# Middle: August 4, 2024, August 10, 2024, August 11, 2024, August 17, 2024
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-08-4" -m "O"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-08-11" -m "O"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-08-10" -m "O"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-08-17" -m "O"
+# Right Vertical: August 17, 2024 through August 24, 2024
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-08-18" -m "O"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-08-19" -m "O"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-08-20" -m "O"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-08-21" -m "O"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-08-22" -m "O"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-08-23" -m "O"
+
+echo "hello" >> hello.txt
+git add hello.txt
+git commit --date="2024-08-24" -m "O"
